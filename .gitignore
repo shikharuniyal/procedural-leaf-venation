@@ -38,3 +38,6 @@ obj/
 
 # Do not track large third-party subtree
 raylib/
+flowing/
+rotat_sq/
+main.cpp
