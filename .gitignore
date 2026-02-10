@@ -35,3 +35,6 @@ obj/
 .cache/
 
 # Leave media (mp4, images) and Dockerfile tracked intentionally
+
+# Do not track large third-party subtree
+raylib/
