@@ -4,11 +4,6 @@ https://github.com/user-attachments/assets/45e98495-34e9-4317-9cc6-8e424d85bc48
 
 A real-time procedural leaf venation simulation using the Space Colonization Algorithm, built with Raylib in C++.
 
-## Demo
-
-https://github.com/user-attachments/assets/7f33d375-0983-4224-b02c-e13711fef65c#t=0.001
-
-
 ## How It Works
 
 This project simulates organic leaf vein growth using a biologically-inspired algorithm called **Space Colonization**. The algorithm mimics how auxins (plant growth hormones) guide vein development in real leaves.
