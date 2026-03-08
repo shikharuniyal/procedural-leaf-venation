@@ -4,9 +4,8 @@ A real-time procedural leaf venation simulation using the Space Colonization Alg
 
 ## Demo
 
-https://github.com/user-attachments/assets/your-video-id-here
 
-> **Note:** Replace the above link with your actual video from your GitHub repository. To upload a video: go to any GitHub issue/PR, drag and drop your video file, and copy the generated link. Add `#t=0.001` at the end to mute audio: `your-video-link#t=0.001`
+https://github.com/user-attachments/assets/45e98495-34e9-4317-9cc6-8e424d85bc48#t=0.001
 
 ## How It Works
 
