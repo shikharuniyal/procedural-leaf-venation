@@ -1,12 +1,13 @@
+
+https://github.com/user-attachments/assets/45e98495-34e9-4317-9cc6-8e424d85bc48
 # Procedural Leaf Venation
 
 A real-time procedural leaf venation simulation using the Space Colonization Algorithm, built with Raylib in C++.
 
 ## Demo
 
-https://github.com/user-attachments/assets/your-video-id-here
+https://github.com/user-attachments/assets/7f33d375-0983-4224-b02c-e13711fef65c#t=0.001
 
-> **Note:** Replace the above link with your actual video from your GitHub repository. To upload a video: go to any GitHub issue/PR, drag and drop your video file, and copy the generated link. Add `#t=0.001` at the end to mute audio: `your-video-link#t=0.001`
 
 ## How It Works
 
